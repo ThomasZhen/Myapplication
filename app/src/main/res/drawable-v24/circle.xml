@@ -1,0 +1,17 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+
+<!--    <gradient-->
+<!--        android:startColor = "#9FE554"-->
+<!--        android:endColor = "#9FE554"-->
+<!--        />-->
+
+    <solid android:color="#9FE554" />
+
+
+
+    <size
+        android:height="60dp"
+        android:width="60dp" />
+
+</shape>
